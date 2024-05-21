@@ -10,10 +10,10 @@
   "hidden_dropout_prob": 0.1,
   "hidden_size": 768,
   "id2label": {
-    "0": "LABEL_0",
-    "1": "LABEL_1",
-    "2": "LABEL_2",
-    "3": "LABEL_3"
+    "0": "B-O",
+    "1": "B-AC",
+    "2": "B-LF",
+    "3": "I-LF"
   },
   "initializer_range": 0.02,
   "intermediate_size": 3072,
